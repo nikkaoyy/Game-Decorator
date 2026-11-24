@@ -244,3 +244,8 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](./LI
 ```
 MIT License — Copyright (c) 2026 nikkaoyy
 ```
+
+## Contexto académico
+
+Patrón de comportamiento **Decorator** aplicado a una nave: cada decorador le añade un poder para destruir asteroides, con pygame. Trabajo del curso **Modelos de Programación** de Ingeniería de Sistemas (Universidad Distrital Francisco José
+de Caldas), con el docente **Daza**, el mismo curso donde aprendí a revisar la calidad del código con **SonarQube**.
